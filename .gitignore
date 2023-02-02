@@ -1,0 +1,6 @@
+__pycache__
+datasets/*
+.idea
+*.csv
+*.xlsx
+*.zip
